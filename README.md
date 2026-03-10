@@ -14,6 +14,10 @@ This mirrors common behavior in apps like email or notes, where destructive acti
 
 1. Make sure you have Flutter installed.
 2. Clone this repository:
-   ```bash
+bash
    git clone <your-repo-url>.git
    cd SnackBar-Widget-
+
+
+
+<img width="248" height="456" alt="SnackBar screenshot" src="https://github.com/user-attachments/assets/49ba6952-77c0-4483-accd-21d726c326a3" />
